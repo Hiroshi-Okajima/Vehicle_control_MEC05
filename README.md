@@ -4,4 +4,4 @@ velconst_movie(10)
 
 Movie filename is "newfile.mp4"
 
-[https://www.jstage.jst.go.jp/article/iscie/29/10/29_466/_article/-char/ja](岡島寛，松永信智：モデル誤差抑制補償器に基づくロバスト経路追従制御，システム制御情報学会論文誌，Vol.29，No.10，pp.466-468（2016）)
+[岡島寛，松永信智：モデル誤差抑制補償器に基づくロバスト経路追従制御，システム制御情報学会論文誌，Vol.29，No.10，pp.466-468（2016）](https://www.jstage.jst.go.jp/article/iscie/29/10/29_466/_article/-char/ja)
